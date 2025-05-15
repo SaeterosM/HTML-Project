@@ -2,4 +2,4 @@
 
 ## Created a Resume website 
 
-< a herf = " file:///C:/Users/natas/Downloads/HTML%20Project/project.html" > Resume Website </a>
+<a href = " file:///C:/Users/natas/Downloads/HTML%20Project/project.html" > Resume Website </a>
